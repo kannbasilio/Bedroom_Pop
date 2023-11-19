@@ -1,2 +1,2 @@
-# Bedroom_Pop
+# Bedroom Pop
 Bedroom Pop video game 
