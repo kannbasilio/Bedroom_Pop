@@ -1,2 +1,2 @@
-# Bedroom Pop
-Bedroom Pop video game 
+# Plant Adventure
+Text based adventure game.
