@@ -1,2 +1,2 @@
 # Plant Adventure
-Text based adventure game.
+Find, grow, and harvest plants in this text based adventure game.
