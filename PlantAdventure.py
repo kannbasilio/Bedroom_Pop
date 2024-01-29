@@ -1,11 +1,7 @@
 """
 Plant Adventure Game
 
-
-Dev Log:
-add better comments
-fix planting garden logic
-edit cuter dialogue / plants
+By Katie Basilio
 """
 
 import random
